@@ -6,7 +6,7 @@
 ## Related paper review
 1. Feature selection with the Fisher score followed by the Maximal Clique Centrality algorithm can accurately identify the hub genes of hepatocellular carcinoma[ >>](https://www.nature.com/articles/s41598-019-53471-0) 
 
-[00174_Abstract]()<br>
+[00174_Abstract](https://github.com/Jin-Baek/Human-microbiome.research/blob/main/00174_Abstract.pdf)<br>
 [Keyword] Maximum Likelihood Estimation, Fisher score
 
 
