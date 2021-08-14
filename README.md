@@ -1,6 +1,7 @@
 ## Introduce
 
-<b>Normalization and Dimensional reduction approach for classify microbiome into multiple diseases</b>
+<b>1. Normalization and dimensional reduction algorithms for classifying microbial data into multiple diseases</b><br><br>
+<b>2. Statistical approach to perform Feature selection for selecting meaningful microbiome genes that affect to various diseases</b>
 
 
 ## Related paper review
