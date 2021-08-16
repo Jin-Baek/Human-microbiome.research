@@ -17,3 +17,14 @@
 [ Keyword ] How UMAP works, Basic UMAP Parameters, Dertermining the number of clusters
 
 ## Manual
+
+
+## Code
+
+#### 1. Normalization and dimensional reduction algorithms for classifying microbial data into multiple diseases
+[Main : R code]()
+#### 2. Statistical approach to perform Feature selection for selecting meaningful microbiome genes that affect to various diseases
+[Main : R code]()
+* #### Practice
+  * Feature selection with t.test & Evaluate with KNN algorithm [code]() [/ data]()
+  * Discrete probability random variable & distribution [code]()
