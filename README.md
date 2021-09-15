@@ -1,4 +1,4 @@
-## Introduce
+## Introduction
 
 **Build best quality control method on Metagenomic analysis** 
 
