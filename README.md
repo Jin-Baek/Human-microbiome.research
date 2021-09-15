@@ -1,7 +1,12 @@
 ## Introduce
 
-<b>1. Normalization and dimensional reduction algorithms for classifying microbial data into multiple diseases</b><br><br>
-<b>2. Statistical approach to perform Feature selection for selecting meaningful microbiome genes that affect to various diseases</b>
+**Build best quality control method on Metagenomic analysis** 
+
+➡️Statistical proof & ML technic for extracting variables with batch effect and perform covariate adjustment
+
+➡️Establish the norm for outlier detection 
+
+➡️Extracting key microbiome that affect each diseases
 
 
 ## Related paper review
@@ -21,10 +26,9 @@
 
 ## Code
 
-#### 1. Normalization and dimensional reduction algorithms for classifying microbial data into multiple diseases
+#### Build best quality control method on Metagenomic analysis
 [Main : R code]()
-#### 2. Statistical approach to perform Feature selection for selecting meaningful microbiome genes that affect to various diseases
-[Main : R code]()
+
 * #### Practice
   * Feature selection with t.test & Evaluate with KNN algorithm [code](https://github.com/Jin-Baek/Human-microbiome.research/blob/main/practice/filtered_ttest.R) [/ data](https://github.com/Jin-Baek/Human-microbiome.research/blob/main/practice/2_practice_1.txt)
   * Discrete probability random variable & distribution [code](https://github.com/Jin-Baek/Human-microbiome.research/blob/main/practice/discreteRV.R)
