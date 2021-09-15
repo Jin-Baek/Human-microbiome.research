@@ -2,11 +2,11 @@
 
 **Build best quality control method on Metagenomic analysis** 
 
-➡️Statistical proof & ML technic for extracting variables with batch effect and perform covariate adjustment
+➡️ Statistical proof & ML technic for extracting variables with batch effect and perform covariate adjustment
 
-➡️Establish the norm for outlier detection 
+➡️ Establish the norm for outlier detection 
 
-➡️Extracting key microbiome that affect each diseases
+➡️ Extracting key microbiome that affect each diseases
 
 
 ## Related paper review
