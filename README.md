@@ -29,7 +29,7 @@
 #### Build best quality control method on Metagenomic analysis
 [Main : R code]()
 
-* #### Practice
+* #### Related practice
   * Feature selection with t.test & Evaluate with KNN algorithm [code](https://github.com/Jin-Baek/Human-microbiome.research/blob/main/practice/filtered_ttest.R) [/ data](https://github.com/Jin-Baek/Human-microbiome.research/blob/main/practice/2_practice_1.txt)
   * Discrete probability random variable & distribution [code](https://github.com/Jin-Baek/Human-microbiome.research/blob/main/practice/discreteRV.R)
   * Understand Correlation [code](https://github.com/Jin-Baek/Human-microbiome.research/blob/main/practice/Correlation.R) [/ data](https://github.com/Jin-Baek/Human-microbiome.research/blob/main/practice/2_practice_2.txt)
